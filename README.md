@@ -13,7 +13,8 @@ A single day [PostGIS](http://postgis.net) show and tell (un)conference in
 London.
 
 Date: 20th November 2014  
-Venue: TBA  
+Venue: [British Computer Society HQ, London](http://www.bcs.org/upload/pdf/london-office-guide.pdf)  
+Tickets: A total of 40 available via the [PostGIS Day, London Eventbrite page](https://www.eventbrite.com/e/postgis-day-tickets-13226598111)  
 Contact: [@archaeogeek](https://twitter.com/archaeogeek), [jocook@astuntechnology.com](mailto:jocook@astuntechnology.com)  
 
 ### Edinburgh, UK
