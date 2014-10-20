@@ -15,6 +15,7 @@ London.
 Date: 20th November 2014  
 Venue: [British Computer Society HQ, London](http://www.bcs.org/upload/pdf/london-office-guide.pdf)  
 Tickets: A total of 40 available via the [PostGIS Day, London Eventbrite page](https://www.eventbrite.com/e/postgis-day-tickets-13226598111)  
+Call for papers: We're looking for proposals for 25 or 10 minute talks, [further details here](http://lists.osgeo.org/pipermail/uk/2014-October/000678.html)  
 Contact: [@archaeogeek](https://twitter.com/archaeogeek), [jocook@astuntechnology.com](mailto:jocook@astuntechnology.com)  
 
 ### Edinburgh, UK
