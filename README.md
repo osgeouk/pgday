@@ -20,7 +20,7 @@ Contact: [@archaeogeek](https://twitter.com/archaeogeek), [jocook@astuntechnolog
 ### Edinburgh, UK
 
 A single day PostGIS show and tell (un)conference in Scotland the day before
-the official post-GIS Day due to venue availability :-).
+the official postGIS Day due to venue availability.
 
 Date: 19th November 2014  
 Venue: [Informatics Forum, University of Edinburgh](http://www.ed.ac.uk/schools-departments/informatics/about/location)  
