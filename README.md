@@ -20,11 +20,12 @@ Contact: [@archaeogeek](https://twitter.com/archaeogeek), [jocook@astuntechnolog
 ### Edinburgh, UK
 
 A single day PostGIS show and tell (un)conference in Scotland the day before
-the official post-GIS Day due to venue availability :-).
+the official PostGIS Day due to venue availability.
 
 Date: 19th November 2014  
 Venue: [Informatics Forum, University of Edinburgh](http://www.ed.ac.uk/schools-departments/informatics/about/location)  
 Tickets: A total of 50 available via the [PostGIS Day, Edinburgh Eventbrite page](http://www.eventbrite.co.uk/e/postgis-day-tickets-13537381673)  
+Call for papers: We're looking for proposals for 25 or 10 minute talks, use the contact details below to submit your ideas.  
 Contact: [@mixedbredie](https://twitter.com/mixedbredie), [mcdonaldr@angus.gov.uk](mailto:mcdonaldr@angus.gov.uk)  
 
 ## Who should attend?
