@@ -10,7 +10,7 @@ The alternative [GIS Day](http://gisday.com/) for FOSS4G folk brought to you by
 ### London, UK
 
 A single day [PostGIS](http://postgis.net) show and tell (un)conference in
-London.
+London. View the [schedule and notes](./LONDON-2014-11-20.md).
 
 Date: 20th November 2014  
 Venue: [British Computer Society HQ, London](http://www.bcs.org/upload/pdf/london-office-guide.pdf)  
