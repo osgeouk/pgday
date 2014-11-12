@@ -3,7 +3,7 @@
 The alternative [GIS Day](http://gisday.com/) for FOSS4G folk brought to you by
 [@osgeouk](https://twitter.com/osgeouk).
 
-![PostGIS logo](postgis-logo.png)
+![PostGIS logo](logos/postgis-logo.png)
 
 ## Events
 
