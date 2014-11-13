@@ -18,14 +18,14 @@ Tickets: A total of 40 available via the [PostGIS Day, London Eventbrite page](h
 Call for papers: We're looking for proposals for 25 or 10 minute talks, [further details here](http://lists.osgeo.org/pipermail/uk/2014-October/000678.html)  
 Contact: [@archaeogeek](https://twitter.com/archaeogeek), [jocook@astuntechnology.com](mailto:jocook@astuntechnology.com)  
 
-### Edinburgh, UK
+### Edinburgh, UK (POSTPONED)
 
-A single day PostGIS show and tell (un)conference in Scotland the day before
-the official PostGIS Day due to venue availability.
+** UPDATE: PostGIS Day Edinburgh is POSTPONED until March 2015 **
 
-Date: 19th November 2014  
-Venue: [Informatics Forum, University of Edinburgh](http://www.ed.ac.uk/schools-departments/informatics/about/location)  
-Tickets: A total of 50 available via the [PostGIS Day, Edinburgh Eventbrite page](http://www.eventbrite.co.uk/e/postgis-day-tickets-13537381673)  
+A single day PostGIS show and tell (un)conference in Scotland.
+
+Date: March 2015  
+Venue: TBC  
 Call for papers: We're looking for proposals for 25 or 10 minute talks, use the contact details below to submit your ideas.  
 Contact: [@mixedbredie](https://twitter.com/mixedbredie), [mcdonaldr@angus.gov.uk](mailto:mcdonaldr@angus.gov.uk)  
 
